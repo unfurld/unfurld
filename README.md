@@ -2,7 +2,7 @@
 
 Unfurld is a microservice to unfurl links ([like in Slack](https://medium.com/slack-developer-blog/everything-you-ever-wanted-to-know-about-unfurling-but-were-afraid-to-ask-or-how-to-make-your-e64b4bb9254)). It handles wrangling with the multiple standards for embedding information about web pages: oEmbed, Twitter Cards, Facebook Open Graph, HTML meta tags.
 
-TODO: Add note saying that this can be either self-hosted or bought on unfurld.io
+**TODO**: Add note saying that this can be either self-hosted or bought on unfurld.io
 
 ## Example
 
@@ -47,7 +47,3 @@ Given a link to a youtube video like `https://www.youtube.com/watch?v=vUSzL2leaF
 This can be used to render a preview as such:
 
 **TODO: Insert Image**
-
-
-
-
