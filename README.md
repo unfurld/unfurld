@@ -47,3 +47,13 @@ Given a link to a youtube video like `https://www.youtube.com/watch?v=vUSzL2leaF
 This can be used to render a preview as such:
 
 **TODO: Insert Image**
+
+## Installation
+
+### Install using `pip`
+### Install using `docker`
+### Install using `Heroku`
+
+## Usage
+
+**TODO:** Link to API docs
