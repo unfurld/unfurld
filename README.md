@@ -8,7 +8,7 @@ TODO: Add note saying that this can be either self-hosted or bought on unfurld.i
 
 Given a link to a youtube video like `https://www.youtube.com/watch?v=vUSzL2leaFM`, Unfurld will return the following response:
 
-```
+```json
 [
     {
         "url": "https://www.youtube.com/watch?v=vUSzL2leaFM",
