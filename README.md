@@ -73,4 +73,4 @@ $ git push heroku master
 
 ## Usage
 
-**TODO:** Link to API docs
+To run the server locally, execute `bundle exec ruby app.rb`. Once the server is up and running, send it requests according to our [API docs](https://unfurld.github.io/docs/).
