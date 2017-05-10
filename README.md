@@ -50,9 +50,26 @@ This can be used to render a preview as such:
 
 ## Installation
 
-### Install using `pip`
+### Install using `RubyGems`
+
+Coming soon.
+
 ### Install using `docker`
+
+Coming soon.
+
 ### Install using `Heroku`
+
+Just click the button below to deploy Unfurld to heroku.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
+
+Alternatively, clone the project and run:
+
+```bash
+$ heroku apps:create
+$ git push heroku master
+```
 
 ## Usage
 
