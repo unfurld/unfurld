@@ -1,0 +1,7 @@
+{
+  "name": "Unfurld",
+  "description": "A microservice to unfurl links (like Slack does)",
+  "repository": "https://github.com/unfurld/unfurld",
+  "logo": "https://www.ruby-lang.org/images/header-ruby-logo.png",
+  "keywords": ["unfurl", "microservice", "ruby", "sinatra"]
+}
