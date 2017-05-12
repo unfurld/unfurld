@@ -62,7 +62,7 @@ Coming soon.
 
 Just click the button below to deploy Unfurld to heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/unfurld/unfurld)
 
 Alternatively, clone the project and run:
 
