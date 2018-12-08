@@ -1,13 +1,7 @@
 require "bundler"
 Bundler.require(:default)
 
-require "oembed"
-
-require_relative "lib/unfurld/unfurld"
-require_relative "lib/unfurld/client"
-require_relative "lib/unfurld/metadata"
-require_relative "lib/unfurld/version"
-require_relative "lib/unfurld/providers/oembed"
+require_relative "lib/unfurld"
 
 post '/api/v1/unfurl.json' do
   # Validate presence of urls key
